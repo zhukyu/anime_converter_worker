@@ -1,0 +1,6 @@
+*.onnx
+/venv/
+/__pycache__/
+in
+outputs
+.env

@@ -1,0 +1,13 @@
+flask
+onnxruntime
+onnxruntime-gpu
+opencv-python
+Pillow
+numpy
+ipywidgets
+requests
+tqdm
+flask_socketio
+websockets
+boto3
+python-dotenv
